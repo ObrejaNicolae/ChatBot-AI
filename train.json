@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "Salut chat",
+      "answer": [
+        "Salut",
+        "Salut sefu",
+        "Noroc moldovene"
+      ]
+    },
+    {
+      "question": "noroc",
+      "answer": "skip"
+    },
+    {
+      "question": "salut",
+      "answer": "salut bro"
+    }
+  ]
+}
